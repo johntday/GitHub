@@ -163,7 +163,7 @@ Inline-style:
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/johntday/GitHub/raw/master/imyicon64.png "Logo Title Text 2"
+[logo]: https://github.com/johntday/GitHub/raw/master/imyicon64.png
 
 <a name="code"/>
 ## Code and Syntax Highlighting
